@@ -1,0 +1,33 @@
+.navbar-brand img{
+    width:30%;
+
+}
+
+.btn-success{
+    border-radius: 70px;
+    padding:0px 15px;
+    background-color: #21B573;
+
+}
+.background{
+    background-color:#F0FFF0;
+}
+.inform:hover{
+    background-color: white;
+    box-shadow:5px 5px 20px whitesmoke ;
+}
+.card{
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 40px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+li{
+    list-style: none;
+}
